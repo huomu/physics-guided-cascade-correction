@@ -1,16 +1,3 @@
-# ⛔ 内部工作副本 — 请勿上传给期刊
-
-> **本目录（含 `supplementary_code\` 子目录）不是上传物。** 脚本内含站点名 `DeChang`、本机用户路径，
-> 以及带 in-sample 泄露的旧版 `pc_rqm` 与 5000 条 Weibull 模拟数据块。
->
-> **上传请用**：`physics-guided-cascade-correction\` —— 该目录已去标识化并清理完毕
-> （站点名/本机路径 → 环境变量 `SUPP_CSV` / `SUPP_OUT`；模拟数据块与主观注释已移除；
-> `run_all_supplementary.py` 指向的文件名与产出目录已修正）。
->
-> 本目录仅供本地跑实验、复现数字使用，保留原路径以免破坏你的运行环境。
-
----
-
 # 补充实验代码说明
 
 ## 背景
